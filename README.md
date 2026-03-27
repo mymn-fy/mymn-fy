@@ -1,18 +1,33 @@
-# 💫 About Me:
-📚 Library and Information Science student<br>🛠️ Interested in simple tools that make complex work easier<br>🎨 Design enthusiast
+# Hi, I'm Min: 
+___
+>✦ Library and Information Science student<br>✦ Interested in simple tools that make complex work easier<br>✦ Design enthusiast
 
+## ✦ Past Projects
+___
+Simply tools I build to solve my own problems.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mymn.fy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mymn.fy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-muhaimin-hattta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rainnairy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmdmhymin@gmail.com) 
+- ✒️ [SitasiInstan](https://github.com/mymn-fy/uin-ab-cite) - Extension untuk mengambil data sitasi APA/CMS dari web jurnal/institutional directory repository
+- 📔 [E-DDC New UI](https://classify-min.vercel.app/) - Redesain E-Class/E-DDC dari IKHLAS 2024
 
-# 💻 Fav Tools:
+## ✦ Fav Tools:
+___
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## 👀 Just chill
+## ✦ Fav System:
+___
+![alt Js](images/Javascript%20Logotype.png)
+![alt CSS](images/CSS%20Logotype.png)
+![alt HTML](images/HTML%20Logotype.png)
+![alt Vscode](images/Vscode%20Logotype.png)
+![alt Boot](images/Bootstrap%20Logotype.png)
+![alt Github](images/Github%20Logotype.png)
+![alt Vercel](images/Vercel%20Logotype.png)
+![alt Node](images/Node%20JS%20Logotype.png)
+
+## ✦ Just chill
+___
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mymn-fy/mymn-fy/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mymn-fy/mymn-fy/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mymn-fy/mymn-fy/output/pacman-contribution-graph.svg">
   </picture>
-
-###
