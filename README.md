@@ -4,8 +4,8 @@
 ## ✦ Past Projects
 Simply tools I build to solve my own problems.
 
-- ✒️ [SitasiInstan](https://github.com/mymn-fy/uin-ab-cite) - Extension untuk mengambil data sitasi APA/CMS dari web jurnal/institutional directory repository
-- 📔 [E-DDC New UI](https://classify-min.vercel.app/) - Redesain E-Class/E-DDC dari IKHLAS 2024
+- ✒️ [SitasiInstan](https://github.com/mymn-fy/uin-ab-cite) - Extension untuk mengambil data sitasi APA/CMS dari web jurnal/institutional directory repository.
+- 📔 [E-DDC New UI](https://classify-min.vercel.app/) - Redesain E-Class/E-DDC dari IKHLAS 2024.
 
 ## ✦ Fav Tools:
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
