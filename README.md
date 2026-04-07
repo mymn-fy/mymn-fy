@@ -1,7 +1,9 @@
-# Hi, I'm Min: 
->I like building small tools that make my day easier. Mostly writing code through VS Code with help by some AI Agent these days.
+# Hi, I'm Min:
+
+> I like building small tools that make my day easier. Mostly writing code through VS Code with help by some AI Agent these days.
 
 ## ✦ Past Projects
+
 Simply tools I build to solve my own problems.
 
 <table>
@@ -34,12 +36,24 @@ Simply tools I build to solve my own problems.
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      📝 Custom Chicago Manual of Style 18th (N&B)
+      <p>Versi yang sudah disesuaikan dengan beberapa tambahan aturan.</p>
+      <a href="https://github.com/mymn-fy/style-cms-18th">
+        <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## ✦ Fav Design Tools:
+
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## ✦ Fav Dev Tools:
+
 <table align="center">
   <tr>
     <td align="center"><img src="images/Javascript%20Logotype.png" width="80"></td>
@@ -55,8 +69,8 @@ Simply tools I build to solve my own problems.
   </tr>
 </table>
 
-
 ## ✦ Just chill
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mymn-fy/mymn-fy/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mymn-fy/mymn-fy/output/pacman-contribution-graph.svg">
