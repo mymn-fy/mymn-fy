@@ -46,6 +46,16 @@ Simply tools I build to solve my own problems.
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      ⌛ Pengingat Progress
+      <p>Pantau berapa hari, jam, menit, dan detik yang telah berlalu sejak progress terakhir Anda secara real-time.</p>
+      <a href="https://after-sempro-counter.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## ✦ Fav Design Tools:
