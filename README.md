@@ -69,7 +69,7 @@ Simply tools I build to solve my own problems.
 
   <tr>
     <td>
-      🎓 Custom Quick Access Microsoft Word
+      ⌨️ Custom Quick Access Microsoft Word
       <p>27 Tools yang sering saya pakai untuk membuat dokumen Microsoft Word.</p>
       <a href="https://github.com/mymn-fy/custom-word-min">
         <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge">
