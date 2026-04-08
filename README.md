@@ -56,6 +56,26 @@ Simply tools I build to solve my own problems.
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      🎓 Sempro Cepat
+      <p>8 tahap jelas dari proposal sampai Sempro di IPII UIN Antasari Banjarmasin.</p>
+      <a href="https://sempro-cepat-ipii.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      🎓 Custom Quick Access Microsoft Word
+      <p>27 Tools yang sering saya pakai untuk membuat dokumen Microsoft Word.</p>
+      <a href="https://github.com/mymn-fy/custom-word-min">
+        <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## ✦ Fav Design Tools:
