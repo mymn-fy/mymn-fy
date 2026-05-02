@@ -29,6 +29,17 @@ Simply tools I build to solve my own problems.
 
   <tr>
     <td>
+      🔍 Search Engine - IDR UIN Antasari
+      <p>Redesain E-Print IDR UIN Antasari.</p>
+      <a href="https://idr-uin-min.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge">
+      </a>
+  </td>
+
+  </tr>
+
+  <tr>
+    <td>
       🧾 Makalah IPII LaTeX
       <p>Tamplate makalah dengan format sesuai kaidah penulisan di UIN Antasari Banjarmasin, namun dalam versi LaTeX.</p>
       <a href="https://github.com/mymn-fy/makalah-ipii-latex">
