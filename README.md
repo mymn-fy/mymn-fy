@@ -71,7 +71,7 @@ Simply tools I build to solve my own problems.
   <tr>
     <td>
       🎓 Sempro Cepat
-      <p>8 tahap jelas dari proposal sampai Sempro di IPII UIN Antasari Banjarmasin.</p>
+      <p>10 tahap jelas dari proposal sampai Sempro di IPII UIN Antasari Banjarmasin.</p>
       <a href="https://sempro-cepat-ipii.vercel.app/">
         <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge">
       </a>
