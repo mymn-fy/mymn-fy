@@ -4,7 +4,7 @@
 
 ## ✦ Now Playing
 
-![Now Playing](https://spotify-cards.fossian.com/api?name=Film%20Favorit&color=A0C3D2)
+<img src="https://spotify-cards.fossian.com/api?name=Film%20Favorit&color=A0C3D2" alt="Now Playing" width="300">
 
 ## ✦ Past Projects
 
