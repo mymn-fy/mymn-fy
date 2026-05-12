@@ -4,90 +4,46 @@
 
 ## ✦ Past Projects
 
-Simply tools I build to solve my own problems.
+<details>
+  <summary>Simply tools I build to solve my own problems.</summary>
 
-<table>
-  <tr>
-    <td>
-      ✒️ SitasiInstan
-      <p>Extension untuk mengambil data sitasi APA/CMS dari web jurnal / institutional repository.</p>
-      <a href="https://github.com/mymn-fy/uin-ab-cite">
-        <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge">
-      </a>
-    </td>
-  </tr>
+- **✒️ SitasiInstan**<br>
+  Extension untuk mengambil data sitasi APA/CMS dari web jurnal / institutional repository.<br>
+  <a href="https://github.com/mymn-fy/uin-ab-cite"><img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge"></a>
 
-  <tr>
-    <td>
-      📔 E-DDC New UI
-      <p>Redesain E-Class / E-DDC dari IKHLAS 2024.</p>
-      <a href="https://classify-min.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge">
-      </a>
-    </td>
-  </tr>
+- **📔 E-DDC New UI**<br>
+  Redesain E-Class / E-DDC dari IKHLAS 2024.<br>
+  <a href="https://classify-min.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge"></a>
 
-  <tr>
-    <td>
-      🔍 Search Engine - IDR UIN Antasari
-      <p>Redesain E-Print IDR UIN Antasari.</p>
-      <a href="https://idr-uin-min.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge">
-      </a>
-  </td>
+- **🔍 Search Engine - IDR UIN Antasari**<br>
+  Redesain E-Print IDR UIN Antasari.<br>
+  <a href="https://idr-uin-min.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge"></a>
 
-  </tr>
+- **🌐 Tamplate Blogger N3X**<br>
+  Template custom untuk platform Blogger / Blogspot.<br>
+  <a href="https://muhaimin-pustakalay.blogspot.com/"><img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge"></a>
 
-  <tr>
-    <td>
-      🧾 Makalah IPII LaTeX
-      <p>Tamplate makalah dengan format sesuai kaidah penulisan di UIN Antasari Banjarmasin, namun dalam versi LaTeX.</p>
-      <a href="https://github.com/mymn-fy/makalah-ipii-latex">
-        <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge">
-      </a>
-    </td>
-  </tr>
+- **🧾 Makalah IPII LaTeX**<br>
+  Tamplate makalah dengan format sesuai kaidah penulisan di UIN Antasari Banjarmasin, namun dalam versi LaTeX.<br>
+  <a href="https://github.com/mymn-fy/makalah-ipii-latex"><img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge"></a>
 
-  <tr>
-    <td>
-      📝 Custom Chicago Manual of Style 18th (N&B)
-      <p>Versi yang sudah disesuaikan dengan beberapa tambahan aturan.</p>
-      <a href="https://github.com/mymn-fy/style-cms-18th">
-        <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge">
-      </a>
-    </td>
-  </tr>
+- **📝 Custom Chicago Manual of Style 18th (N&B)**<br>
+  Versi yang sudah disesuaikan dengan beberapa tambahan aturan.<br>
+  <a href="https://github.com/mymn-fy/style-cms-18th"><img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge"></a>
 
-  <tr>
-    <td>
-      ⌛ Pengingat Progress
-      <p>Pantau berapa hari, jam, menit, dan detik yang telah berlalu sejak progress terakhir Anda secara real-time.</p>
-      <a href="https://after-sempro-counter.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge">
-      </a>
-    </td>
-  </tr>
+- **⌛ Pengingat Progress**<br>
+  Pantau berapa hari, jam, menit, dan detik yang telah berlalu sejak progress terakhir Anda secara real-time.<br>
+  <a href="https://after-sempro-counter.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge"></a>
 
-  <tr>
-    <td>
-      🎓 Sempro Cepat
-      <p>10 tahap jelas dari proposal sampai Sempro di IPII UIN Antasari Banjarmasin.</p>
-      <a href="https://sempro-cepat-ipii.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge">
-      </a>
-    </td>
-  </tr>
+- **🎓 Sempro Cepat**<br>
+  10 tahap jelas dari proposal sampai Sempro di IPII UIN Antasari Banjarmasin.<br>
+  <a href="https://sempro-cepat-ipii.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge"></a>
 
-  <tr>
-    <td>
-      ⌨️ Custom Quick Access Microsoft Word
-      <p>27 Tools yang sering saya pakai untuk membuat dokumen Microsoft Word.</p>
-      <a href="https://github.com/mymn-fy/custom-word-min">
-        <img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge">
-      </a>
-    </td>
-  </tr>
-</table>
+- **⌨️ Custom Quick Access Microsoft Word**<br>
+  27 Tools yang sering saya pakai untuk membuat dokumen Microsoft Word.<br>
+  <a href="https://github.com/mymn-fy/custom-word-min"><img src="https://img.shields.io/badge/View%20Project-000?style=for-the-badge"></a>
+
+</details>
 
 ## ✦ Fav Design Tools:
 
