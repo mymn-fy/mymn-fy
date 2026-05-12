@@ -2,6 +2,10 @@
 
 > I like building small tools that make my day easier. Mostly writing code through VS Code with help by some AI Agent these days.
 
+## ✦ Now Playing
+
+![Now Playing](https://spotify-cards.fossian.com/api?name=Film%20Favorit&color=A0C3D2)
+
 ## ✦ Past Projects
 
 <details>
